@@ -18,7 +18,7 @@ public class Greeter {
   }
 }
 
-/**duplicate
+/**duplicate**/
   public Greeter() {
 
   }
@@ -28,4 +28,3 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 }
-**/
