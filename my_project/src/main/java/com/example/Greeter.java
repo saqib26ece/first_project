@@ -19,7 +19,7 @@ public class Greeter {
 }
 
 /**duplicate**/
-  public Greeter() {
+  public Greeter2() {
 
   }
 
