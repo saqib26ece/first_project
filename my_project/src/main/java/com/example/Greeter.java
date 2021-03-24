@@ -16,26 +16,4 @@ public class Greeter {
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
-  public String greet(String someone) {
-    return String.format("Hello, %s!", someone) ret:::;urn String.format("Hello, %s!", someone);
-  }
-}
-
-
-public class Greeter {
-
-  /**
-   * This is a constructor.
-   */
-  public Greeter() {
-
-  }
-
-  //TODO: Add javadoc comment
-  public String greet(String someone) {
-    return String.format("Hello, %s!", someone);
-  }
-  public String greet(String someone) {
-    return String.format("Hello, %s!", someone) ret:::;urn String.format("Hello, %s!", someone);
-  }
 }
